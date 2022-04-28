@@ -1,0 +1,88 @@
+D:\Baitap\lap trinh\ShopM\ShopM\bin\Debug\ShopM.exe.config
+D:\Baitap\lap trinh\ShopM\ShopM\bin\Debug\ShopM.exe
+D:\Baitap\lap trinh\ShopM\ShopM\bin\Debug\ShopM.pdb
+D:\Baitap\lap trinh\ShopM\ShopM\bin\Debug\Guna.UI2.dll
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.csprojAssemblyReference.cache
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.Properties.Resources.resources
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.csproj.GenerateResource.cache
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.csproj.CoreCompileInputs.cache
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.csproj.CopyComplete
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.exe
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.pdb
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.splash.resources
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.Login.resources
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.Home.resources
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.Nhanvien.resources
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.Sanpham.resources
+D:\Baitap\lap trinh\ShopM\ShopM\obj\Debug\ShopM.Khachhang.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe.config
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\bin\Debug\ShopM.pdb
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.Home.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.Khachhang.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.Login.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.Nhanvien.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.Sanpham.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.splash.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.exe
+C:\Users\Administrator\Desktop\ShopM\ShopM\ShopM\obj\Debug\ShopM.pdb
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe.config
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\bin\Debug\ShopM.pdb
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.HoaDon.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.Home.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.Khachhang.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.Login.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.Nhanvien.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.Sanpham.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.splash.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.exe
+C:\Users\Administrator\Desktop\Dsnh\ShopM\ShopM\ShopM\obj\Debug\ShopM.pdb
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe.config
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\ShopM.pdb
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\Guna.UI2.dll
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csprojAssemblyReference.cache
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.HoaDon.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Home.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Khachhang.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Login.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Nhanvien.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Sanpham.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.splash.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Properties.Resources.resources
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.GenerateResource.cache
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CoreCompileInputs.cache
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CopyComplete
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.exe
+D:\Baitap\lap trinh\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.pdb
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe.config
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\ShopM.exe
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\ShopM.pdb
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\bin\Debug\Guna.UI2.dll
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.AssemblyReference.cache
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.HoaDon.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Home.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Khachhang.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Login.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Nhanvien.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Sanpham.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.splash.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.Properties.Resources.resources
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.GenerateResource.cache
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CoreCompileInputs.cache
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.csproj.CopyComplete
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.exe
+C:\Users\Administrator\Desktop\ShopM-Doan\ShopM-Doan\ShopM\ShopM\ShopM\obj\Debug\ShopM.pdb

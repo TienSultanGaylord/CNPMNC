@@ -108,7 +108,7 @@ namespace ShopM
                     SqlCommand cmd = new SqlCommand("Delete from KhachHangtbl where KhachHangID = @Key", sql);
                     cmd.Parameters.AddWithValue("@Key", Key);
                     cmd.ExecuteNonQuery();
-                    MessageBox.Show("Xóa thành công");
+                    MessageBox.Show("Đã xóa");
                     sql.Close();
                     DisplayKhachHang();
                     Clear();
